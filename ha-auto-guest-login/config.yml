@@ -1,7 +1,7 @@
-name: "Auto Guest Login"
+name: "Auto Guest Login Tehnic"
 description: "A web server that provides an easy way for guests to get access to Home Assistant"
 version: "1.4.0"
-slug: "ha-auto-guest-login"
+slug: "ha-auto-guest-login-tehnic"
 init: false
 image: "norick/image-{arch}-ha-auto-guest-login-addon"
 codenotary: cnathanorick@gmail.com
